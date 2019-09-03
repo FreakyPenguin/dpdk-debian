@@ -1,3 +1,9 @@
+dpdk (18.11.2-4) unstable; urgency=medium
+
+  * Add ena pinterrupts patch
+
+ -- Antoine Kaufmann <antoinek@mpi-sws.org>  Tue, 03 Sep 2019 19:40:45 +0100
+
 dpdk (18.11.2-3) unstable; urgency=medium
 
   * Note branch in Vcs-Git.
